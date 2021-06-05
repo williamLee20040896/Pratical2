@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Pratical2</string>
+    <string name="increase">Increase font size</string>
+    <string name="decrease">Decrease font size</string>
+    <string name="Botanic_Garden">Not to be confused with the Gardens on the Bay, the Botanic Gardens are also worth a visit. Singapore received its first UNESCO World Heritage nomination for its botanical gardens.</string>
+    <string name="BG_URL">https://www.nparks.gov.sg/sbg</string>
+    <string name="MBS">The opulent Marina Bay Sands resort complex includes a high-end luxury hotel, a mall with a canal running through it, the ArtScience Museum, and the Marina Bay Sands Skypark Observation Deck—a vantage point for taking in the entire city. The Skypark\'s viewing deck and infinity pool are found in the ship (yes, ship) that tops the hotel. Only hotel guests are allowed to use the infinity pool, but anyone can visit the observation deck.</string>
+    <string name="mbs_url">http://www.marinabaysands.com/</string>
+    <string name="mbs_urll">http://www.marinabaysands.com</string>
+    <string name="Mbs">Marina Bay Sand</string>
+    <string name="gb">Garden by the Bay</string>
+    <string name="gb_url">http://www.gardensbythebay.com.sg/en.html</string>
+    <string name="gb_desc">Once you\'ve glimpsed this beautifully designed green space (from the top of the Marina Bay Sands, perhaps) you won\'t be able to stay away. Wander through the Bay East Garden, perfect for enjoying the vibrant plant life and escaping the city bustle for a moment.</string>
+    <string name="zooUrl">https://www.wrs.com.sg/en/singapore-zoo.html</string>
+    <string name="zoo_desc">Billing itself as the world\'s best rainforest zoo, the Singapore Zoo is a pretty impressive place. The facility is clean and inviting, and the animals appear well treated, with plenty of lush vegetation and habitat space.</string>
+    <string name="zoo_name">SIngapore Zoo</string>
+    <string name="orchard_desc">One could be forgiven for coming to Singapore and doing nothing but shopping, as this is a world-class city for style and designer chic. The Orchard Road area is a great place to start a shopping spree, as there are high-end stores at every turn. You\'d expect nothing less from a neighborhood that boasts 22 malls and six department stores. There are also four movie theaters, including an IMAX cinema, and a KTV karaoke establishment.</string>
+    <string name="orchard_url">http://www.orchardroad.org/</string>
+    <string name="orchard_name">Orchard Road</string>
+    <string name="flyer_name">Singapore Flyer</string>
+    <string name="flyer_desc">If the observation deck at the Marina Bay Sands doesn\'t quite do it for you, try taking in high tea while looking out over the city from the Singapore Flyer, the world\'s largest giant observation wheel. Choose from several different packages that allow you to be served and pampered while enjoying a view that encompasses not only the Singapore skyline but as far away as the Spice Islands of Indonesia and Malaysia\'s Straits of Johor.</string>
+    <string name="flyer_url">http://www.singaporeflyer.com/</string>
+    <string name="chinatown_name">Chinatown</string>
+
+</resources>
